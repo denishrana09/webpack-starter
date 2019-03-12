@@ -2,7 +2,7 @@
 
 start by reading main concepts first
 
-### `https://webpack.js.org/concepts`
+[Webpack Concepts](https://webpack.js.org/concepts)
 
 learning path
 
