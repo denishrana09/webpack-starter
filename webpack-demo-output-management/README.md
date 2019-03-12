@@ -12,8 +12,8 @@ HtmlWebpackPlugin by default will generate its own index.html file, even though 
 
 ## run in terminal
 
-### npm install
+### `npm install`
 
-### npm run build
+### `npm run build`
 
 open index.html from "dist" folder

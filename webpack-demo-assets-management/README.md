@@ -2,8 +2,8 @@
 
 run in terminal
 
-### npm install
+### `npm install`
 
-### npm run build
+### `npm run build`
 
 open index.html from "dist" folder
