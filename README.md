@@ -13,3 +13,5 @@
 - [Development demo](/webpack-demo-development)
 
 - [HMR demo](/webpack-demo-hmr)
+
+- [Production demo](/webpack-demo-production)
